@@ -1,9 +1,13 @@
 Hujan
+Oleh: Freddy Setiawan.
 
-Hujan masih mengguyur bumi dari semalam. Tiada hari tanpa hujan, mungkin itulah kata yang tepat untuk menggambarkan kota Jakarta dalam kurun waktu beberapa hari ini. Hujan seolah menjadi rutinitas harian. Harusnya ini musim panas, namun kenyataan justru sebaliknya, hujan masih semena-mena turun, sedangkan dikala sebaliknya, di musim yang seharusnya hujan, justru panas cukup menyesakkan suasana dan membuat gerah.
+Hujan masih mengguyur bumi dari semalam. Tiada hari tanpa hujan, mungkin itulah kata yang tepat untuk menggambarkan kota Jakarta dalam kurun waktu beberapa hari ini. Hujan seolah menjadi rutinitas harian. Harusnya ini adalah musim panas, namun kenyataan justru sebaliknya, hujan masih semena-mena turun, sedangkan dikala sebaliknya, di musim yang seharusnya hujan, justru panas cukup menyesakkan suasana dan membuat gerah.
 
 Deras, butiran-butiran air menghujam tanah tanpa ampun, bagaikan sebuah pisau tajam menusuk sampai ke jantung, rasa dingin yang menusuk kulit, menjalar hingga ke lubuk hati yang terdalam. Kutarik lagi selimut, nyaman, memberi kehangatan. Ah, tak perlu heran, suasana ini memang sulit untuk bangkit dari lelap, seperti kenangan indah, sulit dilupakan, selalu dipaksa teringat setiap kali tetesan air hujan jatuh.
 
 Sebenarnya, banyak hal yang membuat aku benci pada hujan. Mulai dari sepatu putihku yang berubah coklat, celana hitamku yang terciprat lumpur, basah, jemuran yang tak kunjung kering, hingga mobilitas menjadi terganggu. Ya, aku benci hujan, hujan terlalu sering menggangguku, harusnya Hujan adalah Rahmat. Beberapa tempat di Jakarta pun mulai tergenang air, genangan, banjir. Terkadang aku lebih senang mendekam di dalam rumah saja ketika hujan turun.
 
 Aku tersentak kaget, segera bangkit dari kasur dan bergegas bersiap-siap ke kamar mandi. Rasa nyaman yang mendekap berubah menjadi kepanikan. Tiba-tiba aku teringat presentasi yang harus ditampilkan ke pimpinan hari ini. Aku bergerak cepat, bersiap-siap dan segera menembus hujan Jakarta. Mengejar waktu menuju ke kantor.
+
+Alamat repository tugas kelompok:
+https://github.com/freddysetiawan16/tugaskelompok01.git
