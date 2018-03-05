@@ -1,0 +1,9 @@
+Tugas BODTCAMP - Pertemuan 1
+
+Judul Cerpen: Jalan Menuju Seorang Ilmuan Data
+
+Ini perjalanan yang tidak mudah tetapi sangat menyenangkan bagiku. Menjadi seseorang yang melawan ketakutannya sendiri untuk belajar angka dan lebih lanjut mengolah angka tersebut menjadi data yang berguna. 
+Aku merasakan adanya dorongan tersendiri di dalam diriku. Rasanya seperti mendobrak batasan-batasan dan cibiran orang tentang ketidakberdayaanku. Aku menjadi lebih kuat, karena aku melawan takutku dan berhasil menaklukannya untuk kebaikanku, juga kebaikan orang lain.
+
+
+Alamat repo kelompok: https://github.com/YunanPutranto/DRY-project.git
